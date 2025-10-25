@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Meu primeiro commit"
+git branch -M main
+git remote add origin https://github.com/seuusuario/nomedorepo.git
+git push -u origin main
